@@ -26,7 +26,9 @@
 随着即时通讯以及音频处理和压缩技术的不断发展，效果更好、适用范围更广、性能更高的算法和新的技术必将不断涌现，如果你有好的技术或者分享，欢迎关注网易云信官方博客和 GitHub：
 
 > 关注更多技术干货内容：[网易云信博客][8]
+
 > 欢迎关注[网易云信 GitHub][9]
+
 > 欢迎关注[网易云信官网][10]
 
   [8]: http://yunxin.163.com/blog/im-1/?from=gb&utm_source=gb&utm_medium=article&utm_content=Im-tech-3
