@@ -40,7 +40,7 @@ IM 的通信协议选择性很多，开源的有 XMPP，MQTT 等，使用开源�
 > 欢迎关注[网易云信官网][4]
 
 
-  [1]: https://segmentfault.com/a/1190000015278364
+  [1]: https://github.com/netease-im/dev-blog/blob/master/Android%20即时通讯开发小结（二）.md
   [2]: https://yunxin.163.com/dev-blog
   [3]: https://github.com/netease-im
   [4]: https://yunxin.163.com/
