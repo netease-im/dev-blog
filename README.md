@@ -17,6 +17,12 @@ Share what we've optimized based on the NetEase YunXin services (IM, RTC, Live S
 
 > [高并发 IM 系统架构优化实践][5]
 
+> [即时通讯 IM 开发指南 1：如何进行技术选型][11]
+
+> [即时通讯 IM 开发指南 2：如何进行技术选型][12]
+
+> [即时通讯 IM 开发指南 3：如何进行技术选型][13]
+
  - Android 即时通讯开发相关
 
 > [Android 即时通讯开发小结（一)][6]
@@ -28,6 +34,12 @@ Share what we've optimized based on the NetEase YunXin services (IM, RTC, Live S
  > [iOS App 开发的那些事儿 1:如何建立合适的规范][8]
  
  > [iOS App 开发的那些事儿 2:如何建立合适的规范][9]
+ 
+ - 直播/互动直播/音视频通话相关
+ 
+ > [几十万人同时在线的直播间聊天，如何设计服务端架构？][10]
+ 
+
 
 [1]:https://i.loli.net/2018/06/26/5b31eba49aecc.png
 [2]: https://github.com/netease-im/dev-blog/blob/master/IM%E6%8E%A8%E9%80%81%E4%BF%9D%E9%9A%9C%E5%8F%8A%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%80%EF%BC%89:%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%8D%E5%BD%B1%E5%93%8D%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E7%9A%84%E5%90%8E%E5%8F%B0%E4%BF%9D%E6%B4%BB.md
@@ -38,4 +50,7 @@ Share what we've optimized based on the NetEase YunXin services (IM, RTC, Live S
 [7]:https://github.com/netease-im/dev-blog/blob/master/Android%20即时通讯开发小结（二）.md
 [8]:https://github.com/netease-im/dev-blog/blob/master/iOS%20App%20开发的那些事儿%201:如何建立合适的规范.md
 [9]:https://github.com/netease-im/dev-blog/blob/master/iOS%20App%20开发的那些事儿%202:如何搭建合适的框架.md
-
+[10]:https://github.com/netease-im/dev-blog/blob/master/%E5%87%A0%E5%8D%81%E4%B8%87%E4%BA%BA%E5%90%8C%E6%97%B6%E5%9C%A8%E7%BA%BF%E7%9A%84%E7%9B%B4%E6%92%AD%E9%97%B4%E8%81%8A%E5%A4%A9%EF%BC%8C%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%9E%B6%E6%9E%84%EF%BC%9F.md
+[11]:https://github.com/netease-im/dev-blog/blob/master/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%20IM%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%201%EF%BC%9A%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.md
+[12]:https://github.com/netease-im/dev-blog/blob/master/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%20IM%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%202%EF%BC%9A%E5%BF%83%E8%B7%B3%E6%8C%87%E4%BB%A4%E8%AF%A6%E8%A7%A3.md
+[13]:https://github.com/netease-im/dev-blog/blob/master/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%20IM%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%203%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E7%99%BB%E5%BD%95%E6%A8%A1%E5%9D%97.md
