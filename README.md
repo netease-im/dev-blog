@@ -23,6 +23,8 @@ Share what we've optimized based on the NetEase YunXin services (IM, RTC, Live S
 
 > [即时通讯 IM 开发指南 3：如何进行技术选型][13]
 
+> [IM 即时通讯：如何跳出传统思维来设计聊天室架构？][14]
+
  - Android 即时通讯开发相关
 
 > [Android 即时通讯开发小结（一)][6]
@@ -54,3 +56,4 @@ Share what we've optimized based on the NetEase YunXin services (IM, RTC, Live S
 [11]:https://github.com/netease-im/dev-blog/blob/master/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%20IM%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%201%EF%BC%9A%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B.md
 [12]:https://github.com/netease-im/dev-blog/blob/master/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%20IM%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%202%EF%BC%9A%E5%BF%83%E8%B7%B3%E6%8C%87%E4%BB%A4%E8%AF%A6%E8%A7%A3.md
 [13]:https://github.com/netease-im/dev-blog/blob/master/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%20IM%20%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%203%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E7%99%BB%E5%BD%95%E6%A8%A1%E5%9D%97.md
+[14]:https://github.com/netease-im/dev-blog/blob/master/IM%20%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF%EF%BC%9A%E5%A6%82%E4%BD%95%E8%B7%B3%E5%87%BA%E4%BC%A0%E7%BB%9F%E6%80%9D%E7%BB%B4%E6%9D%A5%E8%AE%BE%E8%AE%A1%E8%81%8A%E5%A4%A9%E5%AE%A4%E6%9E%B6%E6%9E%84%EF%BC%9F.md
